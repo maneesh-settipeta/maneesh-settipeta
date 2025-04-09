@@ -7,7 +7,7 @@
 ###
 
 - 📜 I code in JavaScript, TypeScript, React, and NodeJS.
-- 🖥️ 2+ years of experience as a Full Stack Developer with expertise in React and Node.js
+- 🖥️ 2+ years of experience as a Full Stack Developer with expertise in Reactjs and Node.js
 - 💫 Expertise in Node.js microservices architecture, with a focus on improving system scalability, reliability, and performance.
 - ⚡Proficient in both front-end and back-end development.
 - ☁️ Experienced in AWS services, enhancing proficiency in deploying, managing, and scaling applications on the cloud platform.
